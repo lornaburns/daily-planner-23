@@ -14,7 +14,7 @@ Upload index.html and assets folder (contains script and stylesheet) to browser.
 
 ## Links:
 
-- [Webpage]()
+- [Webpage](https://lornaburns.github.io/daily-planner-23/)
 - [Repository](https://github.com/lornaburns/daily-planner-23)
 
 ## Use:
@@ -23,7 +23,7 @@ This webpage is responsive on a range of screen sizes. User can add information 
 
 ## Image:
 
-<img src="" alt="daily schedule" width="200"/>
+<img src="https://github.com/lornaburns/daily-planner-23/blob/main/assets/_C__Users_Lorna%2520and%2520Wright_Desktop_bootcamp_sandbox_week-5_02-Challenge_daily-planner-23_index.html.png?raw=true" alt="daily schedule" width="200"/>
 
 ## Credits:
 
